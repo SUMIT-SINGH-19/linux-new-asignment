@@ -1,0 +1,5 @@
+$ bash analyze.sh test.txt
+Argument is a file.
+Lines Words Characters:
+ 1  3 18 test.txt
+

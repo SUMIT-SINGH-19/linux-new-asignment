@@ -1,0 +1,7 @@
+rahar@Sumit MINGW64 /c/asignment-2/linux-new-asignment/Question1 (main)
+$ bash analyze.sh demo
+Argument is a directory.
+Total files:
+3
+Total .txt files:
+2
