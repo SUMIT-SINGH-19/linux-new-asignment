@@ -1,1 +1,12 @@
+This script accepts exactly one command-line argument.
+
+If the argument is a file:
+- It displays the number of lines, words, and characters using wc command.
+
+If the argument is a directory:
+- It displays the total number of files.
+- It displays the total number of .txt files using find command.
+
+If the argument count is incorrect or the path does not exist:
+- An appropriate error message is displayed.
 
